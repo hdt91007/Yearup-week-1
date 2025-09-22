@@ -5,6 +5,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("programing is so cool");
-        System.out.println("my Name is Hoang Tran");
+        System.out.println("my Name is Hoang Tran :) ");
     }
 }
